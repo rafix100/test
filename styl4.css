@@ -1,0 +1,53 @@
+*{
+	box-sizing: border-box;
+
+}
+header{
+	display:flex
+}
+.lewa{
+	background-color:#4b0082;
+	color: white;
+	text-align:center;
+	width:75%;
+	height:100px;
+}
+.prawa{
+	width:25%;
+	height:100px
+}
+main{
+	display:flex;
+	
+}
+.lewa2{
+	width:45%;
+	height:300px;
+}
+.prawa2{
+	width:55%;
+	height:300px;
+	text-align:center;
+	
+}
+.tabela {
+	
+	padding:60px;
+	background-color:#4b0082
+}
+body{
+	font-family:helveltica;
+	background-color:#ffe4b5;
+}
+footer{
+	background-color:#4b0082;
+	color:white;
+	padding:40px;
+}
+table{
+	border:2px dotted orange;
+	width:100%;
+	color:white;
+	text-align:center;
+	
+}
